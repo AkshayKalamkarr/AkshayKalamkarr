@@ -26,7 +26,7 @@ I am a collaborative person but sometimes I get nervous and self-conscious in so
 <br/>
 
 
-### Technologies I have previously worked with:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" />Technologies I have previously worked with:
 
 - JavaScript, HTML, CSS 3, java
 - MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS) and Next.js
