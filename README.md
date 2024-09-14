@@ -39,7 +39,7 @@ I am a collaborative person but sometimes I get nervous and self-conscious in so
 
 
 
-## Github Stats  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AkshayKalamkarr&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
