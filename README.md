@@ -48,10 +48,6 @@ I am a collaborative person but sometimes I get nervous and self-conscious in so
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayKalamkarr&hide_border=true&layout=compact&langs_count=6" align="left" style="width: 100%" />
 
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
 </td></tr></table>  
 
 <br/>  
@@ -59,3 +55,8 @@ I am a collaborative person but sometimes I get nervous and self-conscious in so
 <!-- <p align="center"> <img alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=prathmeshsadake&theme=react-dark" /> </p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayKalamkarr" alt="AkshayKalamkarr" /></p>
+
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
