@@ -7,7 +7,7 @@
 <a href="https://github.com/akshaykalamkarr" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/akshay kalamkar" target="_blank">
+<a href="https://twitter.com/akshaykalamkar" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/AkshayKalamkar" target="_blank">
@@ -20,7 +20,7 @@
 ### Glad to see you here!  
 Power-packed with the strengths of data structures and algorithms. I can perform modifications in various software, according to client requirements, by applying the principles of computer science, with the goal of optimising an application for better performance delivery.
 
-I can create client-facing apps and websites with cutting-edge back-end support. I have worked with modern tools including Next.js, React.js, MongoDB, Node, Express.js, Firebase and Postman. I usually use the MERN stack, but I'm flexible enough to utilize whatever tools are required.
+I can create client-facing apps and websites with cutting-edge back-end support. I have worked with modern tools including Next.js, React.js, MongoDB, Node, Express.js and Postman. I usually use the MERN stack, but I'm flexible enough to utilize whatever tools are required.
 
 I am a collaborative person but sometimes I get nervous and self-conscious in social situations. Also I enjoy making people around me laugh.
 <br/>
@@ -28,10 +28,10 @@ I am a collaborative person but sometimes I get nervous and self-conscious in so
 
 ### Technologies I have previously worked with:
 
-- JavaScript, C/C++, HTML, CSS 3, Python
-- Popular Python libraries, including pandas, NumPy, Matplotlib, and many more.
+- JavaScript, HTML, CSS 3, java
 - MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS) and Next.js
-- CSS frameworks and libraries like Material UI, Bootstrap, Tailwind CSS
+- UI libraries Acertinity UI, Magic UI ,Bootstrap
+- CSS frameworks and libraries like Material UI, Tailwind CSS
 - CMS such as Strapi and Sanity
 
 
