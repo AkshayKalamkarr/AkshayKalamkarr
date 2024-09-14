@@ -34,6 +34,10 @@ I am a collaborative person but sometimes I get nervous and self-conscious in so
 - CSS frameworks and libraries like Material UI, Tailwind CSS
 - CMS such as Strapi and Sanity
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,md,git,github,vscode,postman,stackoverflow&perline=13)](#)
+
+
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
