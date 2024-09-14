@@ -48,6 +48,10 @@ I am a collaborative person but sometimes I get nervous and self-conscious in so
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayKalamkarr&hide_border=true&layout=compact&langs_count=6" align="left" style="width: 100%" />
 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
 </td></tr></table>  
 
 <br/>  
