@@ -55,8 +55,6 @@ I am a collaborative person but sometimes I get nervous and self-conscious in so
 <!-- <p align="center"> <img alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=prathmeshsadake&theme=react-dark" /> </p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayKalamkarr" alt="AkshayKalamkarr" /></p>
-
-
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=100&section=footer"/>
 </p>
