@@ -22,10 +22,6 @@ Power-packed with the strengths of data structures and algorithms. I can perform
 
 I can create client-facing apps and websites with cutting-edge back-end support. I have worked with modern tools including Next.js, React.js, MongoDB, Node, Express.js and Postman. I usually use the MERN stack, but I'm flexible enough to utilize whatever tools are required.
 
-I am a collaborative person but sometimes I get nervous and self-conscious in social situations. Also I enjoy making people around me laugh.
-<br/>
-
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" />  Technologies I have previously worked with:
 
 - JavaScript, HTML, CSS 3, java
