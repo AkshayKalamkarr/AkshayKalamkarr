@@ -24,11 +24,11 @@ I can create client-facing apps and websites with cutting-edge back-end support.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" />  Technologies I have previously worked with:
 
-- JAVASCRIPT, HTML, CSS 3, Java
-- MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS) and Next.js
-- UI libraries Acertinity UI, Magic UI ,Bootstrap
-- CSS frameworks and libraries like Material UI, Tailwind CSS
-- CMS such as Strapi and Sanity
+- JAVASCRIPT, HTML, CSS 3, JAVA.
+- MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS) and Next.js.
+- UI libraries Acertinity UI, Magic UI ,Bootstrap.
+- CSS frameworks and libraries like Material UI, Tailwind CSS.
+- CMS such as Strapi and Sanity.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,md,git,github,vscode,postman)](#)
