@@ -16,7 +16,7 @@
 <a href="https://instagram.com/im_lakshay30" target="_blank">
   <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.hackerrank.com/yourprofile" target="_blank">
+<a href="https://www.hackerrank.com/akshaykalamkar21" target="_blank">
   <img src="https://img.shields.io/badge/hackerrank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank" style="margin-bottom: 5px;" />
 </a>
 <a href="https://leetcode.com/yourprofile" target="_blank">
