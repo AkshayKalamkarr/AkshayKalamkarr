@@ -15,7 +15,7 @@
 </a>
 <a href="https://instagram.com/im_lakshay30" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-<a href="https://instagram.com/im_lakshay30" target="_blank">
+<a href="https://hackerrank.com/akshaykalamkar" target="_blank">
 <img src=https://img.shields.io/badge/hackerrank-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   
