@@ -33,7 +33,7 @@ I can create client-facing apps and websites with cutting-edge back-end support.
 
 - JAVASCRIPT, HTML, CSS 3, JAVA.
 - MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS) and Next.js.
-- UI libraries Acertinity UI, Magic UI ,Bootstrap.
+- UI libraries Acertinity UI, Magic UI ,Bootstrap
 - CSS frameworks and libraries like Material UI, Tailwind CSS.
 - CMS such as Strapi and Sanity.
 
